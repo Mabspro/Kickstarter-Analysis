@@ -9,10 +9,10 @@ Louise would be well served to set a moderate campaign goal and would therefore 
 Most of the failed kickstarters where those with hefty goals and therefore did not garner enough pledges.
 ### Analysis of Outcomes Based on Launch Date
 The chart below shows some of the Months with a higher success rate:
-!Outcomes_Launchdate(C:\Users\mabsp\OneDrive\Desktop\Bootcamp Items\Assignment 1\Outcomes Based on Launch Date.png)
+!Outcomes_Launchdate: Outcomes Based on Launch Date.png)
 ### Analysis of Outcomes Based on Goals
 This next one shows the Parent Compay Outcomes:
-!ParentCompany(C:\Users\mabsp\OneDrive\Desktop\Bootcamp Items\Assignment 1\Parent Company Outcomes.png)
+!ParentCompany:  Parent Company Outcomes.png)
 ### Challenges and Difficulties Encountered
 Based on these statistics, we can determine the following:
 
